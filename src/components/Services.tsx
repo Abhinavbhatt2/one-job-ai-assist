@@ -32,7 +32,7 @@ const Services = () => {
       title: "Mock Interview Sessions",
       description: "Practice with industry experts and AI-powered feedback to master your interview skills and boost confidence.",
       features: ["1-on-1 sessions", "Industry-specific prep", "Detailed feedback", "Follow-up coaching"],
-      price: "Starting at ₹129"
+      price: "Starting at ₹749"
     }
   ];
 
