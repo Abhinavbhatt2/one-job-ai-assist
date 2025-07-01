@@ -10,7 +10,7 @@ const Services = () => {
       title: "AI-Powered Job Search Optimization",
       description: "Our revolutionary AI analyzes thousands of job postings to match you with perfect opportunities and optimize your application strategy.",
       features: ["Smart job matching", "Application tracking", "Success analytics", "Market insights"],
-      price: "Starting at $99",
+      price: "Starting at ₹99",
       popular: true
     },
     {
@@ -18,21 +18,21 @@ const Services = () => {
       title: "Professional Resume Writing",
       description: "Expert-crafted resumes that pass ATS systems and impress hiring managers. Tailored to your industry and career level.",
       features: ["ATS-optimized format", "Industry-specific keywords", "Multiple revisions", "Cover letter included"],
-      price: "Starting at $149"
+      price: "Starting at ₹149"
     },
     {
       icon: <Linkedin className="h-12 w-12 text-blue-700" />,
       title: "LinkedIn Profile Optimization",
       description: "Transform your LinkedIn into a powerful networking and job-searching tool that attracts recruiters and opportunities.",
       features: ["Compelling headline", "Optimized summary", "Skills optimization", "Network strategy"],
-      price: "Starting at $79"
+      price: "Starting at ₹79"
     },
     {
       icon: <MessageSquare className="h-12 w-12 text-purple-600" />,
       title: "Mock Interview Sessions",
       description: "Practice with industry experts and AI-powered feedback to master your interview skills and boost confidence.",
       features: ["1-on-1 sessions", "Industry-specific prep", "Detailed feedback", "Follow-up coaching"],
-      price: "Starting at $129"
+      price: "Starting at ₹129"
     }
   ];
 
